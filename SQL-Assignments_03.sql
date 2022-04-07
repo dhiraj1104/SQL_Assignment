@@ -1,4 +1,3 @@
--- Assignent 3
 
 -- 1.write a query to display the orders placed by customer with phone number 030-0074321
 
